@@ -35,7 +35,7 @@
     "horizon-sp": "latest",
     "https-proxy-agent": "latest",
     "is-hexcolor": "^1.0.0",
-    "mqtt": "^3.0.0",
+    "mqtt": "^4.3.7",
     "npmlog": "latest",
     "os": "latest",
     "pretty-ms": "latest",
